@@ -1,2 +1,2 @@
 # Game-Rock-paper-Sciossors
-this game by me maked .. :)
+this game by maked me .. :)
